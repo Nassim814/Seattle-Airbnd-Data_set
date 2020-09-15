@@ -1,4 +1,4 @@
-# Seattle-Airbnb-Data_set
+# What to learn from Airbnb about Seattle, WA
 
 ### Table of Contents
 
