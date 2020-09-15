@@ -36,7 +36,7 @@ The respective output file `animation.mp4'file shows the final result.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@nassimo/what-can-we-learn-from-airbnb-about-seattle-4342b7626b52).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
